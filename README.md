@@ -10,3 +10,4 @@ A manager at an internet retail company wants a back end for their e-commerce we
 ## Walkthrough Video
 https://youtu.be/oRrPh-6E2XQ
 ## Screenshot of Insomnia
+![](./assets/images/e-commerce-insomnia.png)
