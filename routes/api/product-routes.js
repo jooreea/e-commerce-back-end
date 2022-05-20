@@ -57,6 +57,7 @@ router.post('/', (req, res) => {
             tag_id,
           };
         });
+        // creates more than one record
         return ProductTag.bulkCreate(productTagIdArr);
       }
       // if no product tags, just respond
