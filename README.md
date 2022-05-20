@@ -8,4 +8,5 @@ A manager at an internet retail company wants a back end for their e-commerce we
 5. When the user opens API GET routes in Insomnia for categories, products, or tags, then the data for each of these routes is displayed in a formatted JSON.
 5. When they test API POST, PUT, and DELETE routes in Insomnia, then they are able to successfully create, update, and delete data in their database.
 ## Walkthrough Video
+https://youtu.be/oRrPh-6E2XQ
 ## Screenshot of Insomnia
